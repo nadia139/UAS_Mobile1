@@ -1,10 +1,10 @@
 # Project Aplikasi Android Studio
 # Prakiraan Cuaca
-Nama : Nadia Aulina Safari
-Nim : 312410258
-Kelas : TI.24.A2
-Dosen Pengampu : Donny Maulana,S.Kom., M.M.S.I
-Mata Kuliah : Pemograman Mobile 1
+.Nama : Nadia Aulina Safari
+.Nim : 312410258
+.Kelas : TI.24.A2
+.Dosen Pengampu : Donny Maulana,S.Kom., M.M.S.I
+.Mata Kuliah : Pemograman Mobile 1
 
 
 Prakiraan Cuaca adalah aplikasi prakiraan cuaca iOS yang menggabungkan teknologi prediksi modern dengan kontribusi komunitas. Aplikasi ini dirancang untuk memberikan informasi cuaca, real-time, dan personal dengan antarmuka yang intuitif dan mudah digunakan.
