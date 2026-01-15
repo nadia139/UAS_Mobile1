@@ -53,6 +53,12 @@ Kontribusi Komunitas
 ![Logo APK Cuaca](https://github.com/user-attachments/assets/7d5088a0-740a-4027-a376-fafc7d544dd6)
 
 
+# NOTIFIKASI
+
+
+![Notifikaasi](https://github.com/user-attachments/assets/9db53eac-f905-4f6b-a446-999618436c88)
+
+
 
 <img width="1920" height="1080" alt="Storyboard" src="https://github.com/user-attachments/assets/0c56db12-dfdb-4a5a-b1c0-eb605c83fc72" />
 
