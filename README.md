@@ -47,6 +47,12 @@ Kontribusi Komunitas
 4. [LAYAR 6] → Konfirmasi: "Terima kasih!"
 5. [KEMBALI] → Ke dashboard dengan data diperbarui
 
+# Logo Aplikasi
+
+
+![Logo APK Cuaca](https://github.com/user-attachments/assets/7d5088a0-740a-4027-a376-fafc7d544dd6)
+
+
 
 <img width="1920" height="1080" alt="Storyboard" src="https://github.com/user-attachments/assets/0c56db12-dfdb-4a5a-b1c0-eb605c83fc72" />
 
@@ -57,6 +63,8 @@ Kontribusi Komunitas
 
 
 <img width="1920" height="1080" alt="UI design" src="https://github.com/user-attachments/assets/e2c19891-0070-42cf-a08c-8df49fb7dff6" />
+
+
 
 
 
