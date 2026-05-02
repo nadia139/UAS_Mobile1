@@ -27,10 +27,7 @@ Pembaruan Real-time :	Data cuaca diperbarui secara berkala
 
 # Fitur Tambahan
 Notifikasi Cuaca Ekstrem ⚠️
-Mode Siang/Malam 🌙
-Widget Homescreen 📱
-Bagikan Kondisi Cuaca 📤
-Riwayat Cuaca 📈
+
 
 Pengguna Baru
 1. [INSTAL] → [BUKA APLIKASI]
@@ -71,6 +68,11 @@ Kontribusi Komunitas
 <img width="1920" height="1080" alt="UI design" src="https://github.com/user-attachments/assets/e2c19891-0070-42cf-a08c-8df49fb7dff6" />
 
 
+
+
+# Menambahkan Fitur AI
+
+<img width="480" height="808" alt="image" src="https://github.com/user-attachments/assets/92bd6a14-5978-49e1-ae94-869d48cd6e69" />
 
 
 
